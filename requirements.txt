@@ -1,0 +1,5 @@
+tensorflow
+tensorflow-hub
+tensorflow-text
+tf-models-official
+tensorflow-addons
